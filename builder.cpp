@@ -1,3 +1,4 @@
+#include "stdafx.h"
 /****************************************
 *   Wzorzec Projektowy Builder          *
 *   (budowniczy)                        *  
